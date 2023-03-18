@@ -28,5 +28,3 @@ export const Navbar = () =>{
 }
 
 export default BasicExample;
-    )
-}
